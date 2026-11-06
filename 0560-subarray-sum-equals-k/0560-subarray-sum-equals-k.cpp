@@ -1,23 +1,18 @@
-class Solution {
+
+class Solution{
 public:
-    int subarraySum(vector<int>& nums, int k) {
-        unordered_map<long long, int> prefixSumCount;
-        prefixSumCount[0] = 1;
-
-        long long sum = 0;
-        int count = 0;
-
-        for (int x : nums) {
-            sum += x;
-
-            auto it = prefixSumCount.find(sum - k);
-            if (it != prefixSumCount.end()) {
-                count += it->second;
-            }
-
-            ++prefixSumCount[sum];
+    int subarraySum(vector<int> &nums, int k){
+        map<int ,int> mpp;
+        mpp[0]=1;
+        int presum =0;
+        int cnt =0;
+        for(int i=0;i<nums.size();i++){
+            presum+=nums[i];
+            int rem = presum-k;
+            cnt+=mpp[rem];
+            mpp[presum]++;
         }
-
-        return count;
+        return cnt;
+        
     }
 };

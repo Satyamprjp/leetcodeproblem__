@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0560-subarray-sum-equals-k) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0560-subarray-sum-equals-k) |
 | [3731-find-missing-elements](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/2089-find-target-indices-after-sorting-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->

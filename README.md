@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3731-find-missing-elements](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0169-majority-element) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3731-find-missing-elements](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/3731-find-missing-elements) |
 ## Quicksort
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0169-majority-element) |
+| [3731-find-missing-elements](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |

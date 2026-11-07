@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3731-find-missing-elements](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0048-rotate-image) |
 | [0509-fibonacci-number](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0509-fibonacci-number) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |

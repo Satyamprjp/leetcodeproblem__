@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0229-majority-element-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0560-subarray-sum-equals-k) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0229-majority-element-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0560-subarray-sum-equals-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/3731-find-missing-elements) |

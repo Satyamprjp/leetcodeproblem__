@@ -8,7 +8,7 @@ public:
             mpp[nums[i]]=i;
 
         }
-        sort(nums.begin(),nums.end());
+        
         for(int i=1;i<=n;i++){
             if(mpp.find(i)==mpp.end()){
                 ans.push_back(i);

@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/3364-minimum-positive-sum-subarray) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -135,4 +136,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0560-subarray-sum-equals-k) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/3364-minimum-positive-sum-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->

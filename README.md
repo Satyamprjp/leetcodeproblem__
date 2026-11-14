@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0560-subarray-sum-equals-k) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0229-majority-element-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0560-subarray-sum-equals-k) |

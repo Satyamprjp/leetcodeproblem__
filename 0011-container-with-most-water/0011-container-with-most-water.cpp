@@ -12,7 +12,7 @@ public:
                 area=width*height[right];
                 right--;
             }
-            else if(height[left]<height[right]){
+            else{
                 area=width*height[left];
                 left++;
             }

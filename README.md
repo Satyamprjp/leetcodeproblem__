@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0560-subarray-sum-equals-k) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0268-missing-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0560-subarray-sum-equals-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0509-fibonacci-number) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -143,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0268-missing-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Prefix Sum
@@ -159,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0011-container-with-most-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

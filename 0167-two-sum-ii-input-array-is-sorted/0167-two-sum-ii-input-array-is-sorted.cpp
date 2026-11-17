@@ -4,16 +4,18 @@ public:
         int left =0;
         int right= numbers.size()-1;
         while(right>left){
-            if((numbers[right]+numbers[left])>target){
-                right--;
-            }
-            if((numbers[right]+numbers[left])<target){
-                left++;
-            }
-            if((numbers[left]+numbers[right])==target){
+            int currsum=numbers[left]+numbers[right];
+             if(currsum==target){
                 return {left+1,right+1};
             }
+           else if(currsum>target){
+                right--;
+            }
+            else if(currsum<target){
+                left++;
+            }
+            
         }
-        return{left+1,right+1};
+        return{};
     }
 };

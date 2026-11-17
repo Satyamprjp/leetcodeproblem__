@@ -4,16 +4,17 @@ public:
         int left =0;
         int right= numbers.size()-1;
         while(right>left){
+             if((numbers[left]+numbers[right])==target){
+                return {left+1,right+1};
+            }
             if((numbers[right]+numbers[left])>target){
                 right--;
             }
             if((numbers[right]+numbers[left])<target){
                 left++;
             }
-            if((numbers[left]+numbers[right])==target){
-                return {left+1,right+1};
-            }
+            
         }
-        return{left+1,right+1};
+        return{};
     }
 };

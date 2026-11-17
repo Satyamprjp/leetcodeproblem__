@@ -11,8 +11,9 @@ public:
            else if(currsum>target){
                 right--;
             }
-            else left++;
-            
+            else if(currsum<target){
+                left++;
+            }
             
         }
         return{};

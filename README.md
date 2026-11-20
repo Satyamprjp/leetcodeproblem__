@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0054-spiral-matrix) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0088-merge-sorted-array) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0119-pascals-triangle-ii) |
@@ -178,4 +181,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0268-missing-number) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

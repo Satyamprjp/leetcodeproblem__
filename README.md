@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0169-majority-element) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0125-valid-palindrome) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0268-missing-number) |

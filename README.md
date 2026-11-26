@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0509-fibonacci-number) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3360-stone-removal-game](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/3360-stone-removal-game) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/Satyamprjp/leetcodeproblem__/tree/master/3360-stone-removal-game) |
 ## Union-Find
 |  |
 | ------- |
